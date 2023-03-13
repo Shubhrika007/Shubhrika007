@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... mathematical modelling using PuLP and Gurobi 
+ 🔭 I’m currently working on mathematical modelling using PuLP and Gurobi 
 - 🌱 I’m currently learning ... Machine learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... gtting started with open source. 
